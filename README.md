@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Will-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Will-yoda" src="https://media3.giphy.com/media/108Xm2F3YT0hHy/giphy.gif">
 </div>
   
   ##
