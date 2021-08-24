@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Will-yoda" src="https://64.media.tumblr.com/d0f083e25461a98931999386ffe4295c/6f1b679b094944cf-70/s400x600/5c6d9aa4d7b794bd04817f16e803fcaa1831af1f.gifv">
+  <img align="right" alt="Will-yoda" src="https://i.imgur.com/Qkx43nK.gif">
 </div>
   
   ##
