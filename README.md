@@ -7,7 +7,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Will-yoda" src="https://i.imgur.com/Qkx43nK.gif">
 </div>
   
   ##
