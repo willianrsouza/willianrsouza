@@ -3,9 +3,9 @@
   <a href="https://github.com/willianrsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrsouza&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrsouza&layout=compact&langs_count=7&theme=dark"/>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img height="300" width="300" src="https://c.tenor.com/H1zHZsrgi-0AAAAd/hxh-killua.gif" target="_blank"></a> 
-   
  </div>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img height="100" width="150" src="https://c.tenor.com/H1zHZsrgi-0AAAAd/hxh-killua.gif" target="_blank"></a> 
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
