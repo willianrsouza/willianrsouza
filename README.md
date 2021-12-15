@@ -12,7 +12,8 @@
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Will-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-
+   
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img  src="https://c.tenor.com/H1zHZsrgi-0AAAAd/hxh-killua.gif" target="_blank"></a> 
  </div>
   
   ##
