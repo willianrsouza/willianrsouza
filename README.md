@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/willianrsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrsouza&show_icons=true&theme=dracula&include_all_commits=true&count_public=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrsouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianrsouza&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
