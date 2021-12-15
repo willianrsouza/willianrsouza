@@ -15,7 +15,6 @@
   ##
  
 <div> 
-  <a href="https://www.instagram.com/willovell/" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494488.png?token=exp=1639587647~hmac=c1b51d1133801e4f25141471fb722f14" target="_blank"></a>
   <a href = "mailto:willianrsouzawork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/willianrsouza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
