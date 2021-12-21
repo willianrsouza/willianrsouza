@@ -1,4 +1,7 @@
 ## Olá! Seja bem-vindo(a) !
+
+ <img height="180em" src="https://camo.githubusercontent.com/ae273b32cc1ccb8e140fb31f14e8e2584e62446700e017bae65219ffb9fd066d/68747470733a2f2f692e706f7374696d672e63632f63344d43394866432f3137333134392d46352d332d4635372d34302d43372d393439362d372d424544434446342d42312d41392e706e67"/>
+
  <div>
   <a href="https://github.com/willianrsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willianrsouza&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
